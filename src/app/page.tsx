@@ -269,7 +269,7 @@ export default function Portfolio() {
           >
             {[
               { icon: Github, href: "https://github.com/tarunteja" },
-              { icon: Linkedin, href: "https://linkedin.com/in/tarunteja" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/tarun-teja-jogu" },
               { icon: Mail, href: "mailto:tarunt462@gmail.com" }
             ].map((social, i) => (
               <a 
