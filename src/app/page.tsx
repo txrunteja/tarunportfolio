@@ -268,7 +268,7 @@ export default function Portfolio() {
             className="flex gap-6 justify-center mt-16"
           >
             {[
-              { icon: Github, href: "https://github.com/tarunteja" },
+              { icon: Github, href: "https://github.com/txrunteja" },
               { icon: Linkedin, href: "https://www.linkedin.com/in/tarun-teja-jogu" },
               { icon: Mail, href: "mailto:tarunt462@gmail.com" }
             ].map((social, i) => (
